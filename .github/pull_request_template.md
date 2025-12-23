@@ -1,5 +1,7 @@
 # 과제 체크포인트
 
+## 과제 배포 링크
+
 - https://daehyunk1m.github.io/front_7th_chapter4-2/
 
 ## 과제 요구사항
